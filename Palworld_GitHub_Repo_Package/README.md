@@ -184,5 +184,5 @@ This project was designed for a **Game Planning Analyst / Systems Analyst** port
 
 ## Author
 
-Portfolio project by **[Your Name]**  
+Portfolio project by **Stabilini Vlada**  
 Role focus: **Player-first systems analysis, retention loops, game planning + data**
